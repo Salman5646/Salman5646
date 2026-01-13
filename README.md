@@ -7,9 +7,9 @@
 ---
 
 ### 🛠 Tech Stack
-- **Mobile:** Flutter, Dart  
+- **Mobile:** Flutter, Dart , JAVA
 - **Backend/Web:** PHP, MySQL, HTML, CSS, JavaScript  
-- **Database:** Firebase, SQLite  
+- **Database:** MYSQL, SQLite  
 - **Tools:** Git & GitHub, PHPMailer  
 
 ---
