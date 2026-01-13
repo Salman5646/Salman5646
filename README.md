@@ -1,19 +1,28 @@
 ## Hi 👋 I'm Salman
 
 🎓 Student  
-📱 Flutter Developer  
-💡 Interested in Mobile App Development  
+📱 Flutter & Web Developer  
+💡 Interested in Mobile & Web App Development  
+
+---
 
 ### 🛠 Tech Stack
-- Flutter, Dart
-- Firebase
-- SQLite
-- Git & GitHub
+- **Mobile:** Flutter, Dart  
+- **Backend/Web:** PHP, MySQL, HTML, CSS, JavaScript  
+- **Database:** Firebase, SQLite  
+- **Tools:** Git & GitHub, PHPMailer  
+
+---
 
 ### 📌 Projects
-- Student Management App (Flutter + SQLite)
-- Gym Split Management App
-- More coming soon...
+- **Student Management App** (Flutter + SQLite)  
+- **Gym Split Management App** (Flutter)  
+- **E-Commerce & Office Automation Web App** (PHP + MySQL)  
+- More projects coming soon…  
+
+---
 
 ### 📫 Connect with me
-- GitHub: https://github.com/Salman5646
+- GitHub: [https://github.com/Salman5646](https://github.com/Salman5646)  
+- Portfolio: [http://sport.byethost32.com](http://sport.byethost32.com)  
+- LinkedIn: [https://www.linkedin.com/in/shaikh-salman-baa1293a3](https://www.linkedin.com/in/shaikh-salman-baa1293a3)
